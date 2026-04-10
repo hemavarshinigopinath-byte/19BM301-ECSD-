@@ -29,15 +29,27 @@ Formula:
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
 # Circuit Diagram and Model Graph:
 
+<img width="1170" height="647" alt="image" src="https://github.com/user-attachments/assets/b0956545-2f49-4b53-ab3b-a5ceff4cb57b" />
+<img width="1123" height="1280" alt="image" src="https://github.com/user-attachments/assets/4b1eef8a-3890-45c0-93bb-f48183f639df" />
+
 
 
 # Tabular Column & Calculation:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1bbb0de3-54f5-44d6-a6c7-02cdc967252f" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4a9a9e05-30ef-44e5-b601-a3496d0690f3" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f061e675-62cb-4d5b-b744-e1e0938d4b61" />
+
 
 
 # Graph:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b5b39635-69a4-4c62-af81-a831d1946d73" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/87ceff84-0efb-4a64-b2a9-c179080bea2a" />
+
+
 
 
 # Result:
 
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5a4c0ae5-6e86-44f0-b2a9-4ac21e830834" />
 
